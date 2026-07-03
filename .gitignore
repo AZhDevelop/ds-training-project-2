@@ -2,7 +2,7 @@
 .venv
 
 # Jupyter Notebook specific files
-.ipynb_checkpoints/
+.ipynb_checkpoints
 
 # Data file (optional, depending on sensitivity, but good practice for local data)
-DS_store/
+.DS_Store
